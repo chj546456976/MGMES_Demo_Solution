@@ -1,0 +1,6 @@
+E:\上海麦格纳汽车座椅\麦格纳触屏程序-演示版\MGMES_Demo_Solution\MGMEApplication\obj\x86\Debug\MGMESApplication.csprojResolveAssemblyReference.cache
+E:\上海麦格纳汽车座椅\麦格纳触屏程序-演示版\MGMES_Demo_Solution\MGMEApplication\obj\x86\Debug\MGNApplication.Frm_Login.resources
+E:\上海麦格纳汽车座椅\麦格纳触屏程序-演示版\MGMES_Demo_Solution\MGMEApplication\obj\x86\Debug\MGMEApplication.Properties.Resources.resources
+E:\上海麦格纳汽车座椅\麦格纳触屏程序-演示版\MGMES_Demo_Solution\MGMEApplication\obj\x86\Debug\MGMESApplication.csproj.GenerateResource.Cache
+E:\上海麦格纳汽车座椅\麦格纳触屏程序-演示版\MGMES_Demo_Solution\MGMEApplication\obj\x86\Debug\MGMEApplication.pdb
+E:\上海麦格纳汽车座椅\麦格纳触屏程序-演示版\MGMES_Demo_Solution\MGMEApplication\obj\x86\Debug\MGMESApplication.Frm_Login.resources
